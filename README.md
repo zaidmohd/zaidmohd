@@ -2,7 +2,6 @@
 - 👀 I’m interested in Azure
 - 🌱 I’m currently learning Bicep
 - 💞️ I’m looking to collaborate on Azure and DevOps
-- 📫 How to reach me mohdzaid89@hotmail.com
 
 <!---
 zaidmohd/zaidmohd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
