@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaidmohd
-- 👀 I’m interested in Azure
-- 🌱 I’m currently automating Bicep module deployment for ESLZ
+- 👀 I’m interested in Azure & K8s
+- 🌱 I’m currently automating Bicep & Terraform module deployment for ESLZ
 - 💞️ I’m looking to collaborate on Azure, DevOps and Kubernetes
 
 <!---
